@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KshitijKumar176
-- 👀 I’m interested in Web Development and Designing
-- 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on Project Work
+- 👋 Hi, I’m Kshitij Kumar
+- 👀 I’m interested in Web Development and Designing.
+- 🌱 I’m currently learning HTML,CSS,JS,ReactJS and many more technologies.
+- 💞️ I’m looking to collaborate on Project Work and Internships.
 - 📫 How to reach me official mail - kshitijkumar176@gmail.com
 
 <!---
